@@ -1,4 +1,4 @@
-# 💫 About Me:
+# I'm Muskan<br><br><br>
 I’m currently working on Web Development, Python projects, and Machine Learning applications<br>I’m looking to collaborate on web apps, ML projects, and beginner-friendly open source<br>I’m looking for help with improving project structure, clean code, and advanced ML concepts<br>I’m currently learning Web Dev | Python Development | Machine Learning<br>Ask me about coding, tech learning journey, projects, and problem-solving<br>Fun fact: Even if I overthink or get stuck, I always figure it out and finish it 😎
 
 
