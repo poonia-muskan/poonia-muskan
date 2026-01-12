@@ -24,9 +24,9 @@ I'm a developer exploring **Web Development, Python, and Machine Learning** thro
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=poonia-muskan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
 
 ![](https://github-profile-trophy.vercel.app/?username=poonia-muskan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
