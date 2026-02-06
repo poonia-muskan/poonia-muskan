@@ -1,21 +1,16 @@
- # Muskan  
-### Developer | Full Stack & Machine Learning
+# Hi, I'm Muskan 👋  
 
-I am a developer focused on building practical, real-world applications. What began as curiosity about how technology works has grown into a commitment to creating software that solves meaningful problems.
+I'm a developer exploring **Web Development, Python, and Machine Learning** through hands-on projects and continuous learning.
 
-I believe strong developers are built through consistency — by writing code regularly, understanding failures, and continuously improving. My current goal is to deepen my expertise in Full Stack Development and Machine Learning while developing projects that reflect real capability.
+-  Currently building web apps and ML-based projects  
+-  Learning Web Development | Python Development | Machine Learning  
+-  Open to collaborating on beginner-friendly open source, web apps, and ML projects  
+-  Ask me about coding, projects, or my tech learning journey  
+-  Fun fact: I may overthink, but I always figure it out and finish what I start 😎  
 
----
-
-## Profile
-- Building production-oriented web applications  
-- Exploring machine learning through hands-on implementation  
-- Improving code quality, scalability, and design practices  
-- Strengthening analytical and problem-solving skills  
-
-I value clarity, attention to detail, and disciplined learning — qualities that directly influence how I build software.
-
----
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan2004)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooniamuskan4@gmail.com)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,39 +24,14 @@ I value clarity, attention to detail, and disciplined learning — qualities tha
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
+![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
 
-## Selected Projects
-**Project Name**  
-One-line description focused on the outcome or problem solved.  
-Tech: Python, Flask, MySQL  
+![](https://github-profile-trophy.vercel.app/?username=poonia-muskan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-**Project Name**  
-One-line description focused on impact.  
-Tech: JavaScript, APIs  
-
-**Project Name**  
-One-line description explaining the value delivered.  
-Tech: Machine Learning, Python  
-
-*(Replace these with your strongest 2–4 projects. Quality matters more than quantity.)*
+![](https://github-contributor-stats.vercel.app/api?username=poonia-muskan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-## GitHub Statistics
-![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=true)
-
----
-
-## Contact
-[LinkedIn](https://linkedin.com/in/muskan2004)  
-[Email](mailto:pooniamuskan4@gmail.com)
-
----
-
-## Note
-I focus on becoming a developer who can learn quickly, adapt to new technologies, and build reliable systems. My long-term objective is simple: write software that is thoughtful, efficient, and genuinely useful.
+[![](https://visitcount.itsvg.in/api?id=poonia-muskan&icon=0&color=0)](https://visitcount.itsvg.in)
