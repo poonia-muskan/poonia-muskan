@@ -28,7 +28,6 @@ I'm a developer exploring **Web Development, Python, and Machine Learning** thro
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-3C3C3D?style=for-the-badge&logo=render&logoColor=white)
 
-
 ![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
