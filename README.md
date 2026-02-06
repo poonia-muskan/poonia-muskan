@@ -1,4 +1,4 @@
-# Muskan 👩‍💻  
+# Muskan
 ### Developer • Builder • Curious Mind  
 
 I’m a developer who enjoys turning ideas into working products. What started as curiosity about how websites function quickly grew into a deeper interest in building applications that solve real problems.
@@ -9,7 +9,7 @@ Currently focused on strengthening my skills in **Full Stack Development and Mac
 
 ---
 
-## 💡 What Drives Me
+## What Drives Me
 - I enjoy understanding how things work beneath the surface — not just making them run.
 - I value consistency over intensity; small daily improvements compound into real skill.
 - Challenges don’t discourage me — they make me more curious.
@@ -18,7 +18,7 @@ Currently focused on strengthening my skills in **Full Stack Development and Mac
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 - Building real-world web applications  
 - Exploring machine learning through hands-on projects  
 - Writing cleaner, more maintainable code  
@@ -26,7 +26,7 @@ Currently focused on strengthening my skills in **Full Stack Development and Mac
 
 ---
 
-## 🤝 Open to Collaborate On
+## Open to Collaborate On
 - Beginner-friendly open source  
 - Web applications  
 - Python-based projects  
@@ -36,7 +36,7 @@ If you're building something interesting, I’d love to contribute and learn alo
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -50,7 +50,7 @@ If you're building something interesting, I’d love to contribute and learn alo
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 🔹 **Project Name**  
 Brief 1-line description focused on impact.  
 
@@ -71,7 +71,7 @@ Brief 1-line description focused on impact.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
@@ -82,19 +82,19 @@ Brief 1-line description focused on impact.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan2004)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooniamuskan4@gmail.com)
 
 ---
 
-## ⚡ A Small Note About Me
+## A Small Note About Me
 I don’t aim to know everything — technology is too vast for that.  
 Instead, I focus on becoming someone who can **learn fast, adapt quickly, and build reliably.**
 
 Because at the end of the day:
 
-👉 Good developers write code.  
-👉 Great developers **solve problems.**  
+-> Good developers write code.  
+-> Great developers **solve problems.**  
 
 I’m working toward the second.
