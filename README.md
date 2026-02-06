@@ -1,38 +1,19 @@
-# Muskan
-### Developer • Builder • Curious Mind  
+ # Muskan  
+### Developer | Full Stack & Machine Learning
 
-I’m a developer who enjoys turning ideas into working products. What started as curiosity about how websites function quickly grew into a deeper interest in building applications that solve real problems.
+I am a developer focused on building practical, real-world applications. What began as curiosity about how technology works has grown into a commitment to creating software that solves meaningful problems.
 
-I believe the best way to learn tech is simple — **build consistently, break things, understand why they broke, and build again.** That mindset shapes how I approach every project.
-
-Currently focused on strengthening my skills in **Full Stack Development and Machine Learning**, while creating projects that reflect practical knowledge rather than just completed tutorials.
+I believe strong developers are built through consistency — by writing code regularly, understanding failures, and continuously improving. My current goal is to deepen my expertise in Full Stack Development and Machine Learning while developing projects that reflect real capability.
 
 ---
 
-## What Drives Me
-- I enjoy understanding how things work beneath the surface — not just making them run.
-- I value consistency over intensity; small daily improvements compound into real skill.
-- Challenges don’t discourage me — they make me more curious.
+## Profile
+- Building production-oriented web applications  
+- Exploring machine learning through hands-on implementation  
+- Improving code quality, scalability, and design practices  
+- Strengthening analytical and problem-solving skills  
 
-**Fun fact:** I may overthink sometimes, but that usually turns into strong attention to detail — a trait I consider valuable as a developer.
-
----
-
-## Current Focus
-- Building real-world web applications  
-- Exploring machine learning through hands-on projects  
-- Writing cleaner, more maintainable code  
-- Strengthening problem-solving skills  
-
----
-
-## Open to Collaborate On
-- Beginner-friendly open source  
-- Web applications  
-- Python-based projects  
-- Machine learning experiments  
-
-If you're building something interesting, I’d love to contribute and learn alongside you.
+I value clarity, attention to detail, and disciplined learning — qualities that directly influence how I build software.
 
 ---
 
@@ -50,51 +31,37 @@ If you're building something interesting, I’d love to contribute and learn alo
 
 ---
 
-## Featured Projects
-🔹 **Project Name**  
-Brief 1-line description focused on impact.  
+## Selected Projects
+**Project Name**  
+One-line description focused on the outcome or problem solved.  
+Tech: Python, Flask, MySQL  
 
-**Tech:** Python, Flask, MySQL  
-→ What problem it solves or why you built it  
+**Project Name**  
+One-line description focused on impact.  
+Tech: JavaScript, APIs  
 
-🔹 **Project Name**  
-Brief 1-line description focused on impact.  
+**Project Name**  
+One-line description explaining the value delivered.  
+Tech: Machine Learning, Python  
 
-**Tech:** JavaScript, API  
-→ What problem it solves  
-
-🔹 **Project Name**  
-Brief 1-line description focused on impact.  
-
-**Tech:** Machine Learning, Python  
-→ What insight or value it provides  
+*(Replace these with your strongest 2–4 projects. Quality matters more than quantity.)*
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)
-![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
+## GitHub Statistics
+![](https://github-readme-stats.vercel.app/api?username=poonia-muskan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![](https://github-profile-trophy.vercel.app/?username=poonia-muskan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-![](https://github-contributor-stats.vercel.app/api?username=poonia-muskan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=poonia-muskan&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=poonia-muskan&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan2004)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooniamuskan4@gmail.com)
+## Contact
+[LinkedIn](https://linkedin.com/in/muskan2004)  
+[Email](mailto:pooniamuskan4@gmail.com)
 
 ---
 
-## A Small Note About Me
-I don’t aim to know everything — technology is too vast for that.  
-Instead, I focus on becoming someone who can **learn fast, adapt quickly, and build reliably.**
-
-Because at the end of the day:
-
--> Good developers write code.  
--> Great developers **solve problems.**  
-
-I’m working toward the second.
+## Note
+I focus on becoming a developer who can learn quickly, adapt to new technologies, and build reliable systems. My long-term objective is simple: write software that is thoughtful, efficient, and genuinely useful.
